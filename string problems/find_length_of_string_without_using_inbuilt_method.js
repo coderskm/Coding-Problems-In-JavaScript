@@ -6,4 +6,4 @@ function findLength(str) {
     console.log("length of", str, ":", len);
 }
 
-findLength("sumit kumar mishra")
+findLength("sumit kumar mishra");
